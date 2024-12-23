@@ -1,0 +1,12 @@
+username = input("Введите имя пользователя: ")
+title = input("Задайте заголовок: ")
+content = input("Введите описание: ")
+status = True
+created_date = input("Введите дату начала(ДД-ММ-ГГГГ): ")
+issue_date = input("Введите дату окончания(ДД-ММ-ГГГГ): ")
+print("Имя пользователя:", username)
+print("Заголовок:", title)
+print("Описание:", content)
+print("Статус:", status)
+print("Дата создания:", created_date)
+print("Дата окончания:", issue_date)
