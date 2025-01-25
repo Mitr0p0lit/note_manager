@@ -5,7 +5,7 @@ formatted_date = current_date.strftime("%d-%m-%Y")
 
 dictionary_of_notes = {}
 
-# Взято из файла multiple_notes
+# Взято из файла multiple_notes отчасти
 print("Добро пожаловать в Менеджер заметок!")
 
 username = input("Введите имя пользователя: ")
